@@ -1,3 +1,7 @@
 this is new to demo in github 
 this is checking 
-this hands on practice in git   
+this hands on practice in git 
+shell we leaarn aws and devops
+we can learn any one whom want to move the IT techology
+focus on the aws services 
+devops is the ci/cd tool to do automation   
